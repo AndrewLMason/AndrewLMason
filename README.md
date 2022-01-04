@@ -44,6 +44,18 @@ To set up Git on a Mac computer follow this guide (for other operating systems, 
 3. If want to visualize your private and public SSH keys, they are in the following files: <br><br>
     ```cat ~/.ssh/*``` 
 
+4. Create config file: <br><br>
+  4.1 Create file with touch: <br><br>
+    ```touch ~/.ssh/config``` <br><br>
+  4.2 Open config file in Mac text editor:
+    ```open ~/.ssh/config``` <br><br>
+  4.3 Copy and paste the following:<br><br>
+  Host *
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/id_ed25519
+  4.4 Save and close pop-up window<br><br>
+
 
 
 
