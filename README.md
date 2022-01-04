@@ -31,17 +31,17 @@ To set up Git on a Mac computer follow this guide (for other operating systems, 
 
 ## Generate and set your SSH key pair ##
 
-1. Generate SSH key, which will have the github-associated e-mail as label, type following command:<br>
+1. Generate SSH key, which will have the github-associated e-mail as label, type following command:<br><br>
     ```ssh-keygen -t ed25519 -C "andymasonLab@gmail.com"```<br>
     
     The following will be prompted (just press enter) <br>
-    Enter file in which to save the key (/Users/masonlab/.ssh/id_ed25519) <br>
+    Enter file in which to save the key (/Users/masonlab/.ssh/id_ed25519) <br><br>
 
-2. Add your SSH key to the SSH agent, with the following command: <br>
+2. Add your SSH key to the SSH agent, with the following command: <br><br>
     ```eval "$(ssh-agent -s)"``` <br>
     (leave the next two questions empty, just press enter)
 
-3. If want to visualize your private and public SSH keys, they are in the following files: <br>
+3. If want to visualize your private and public SSH keys, they are in the following files: <br><br>
     ```cat ~/.ssh/*``` 
 
 
