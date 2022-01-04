@@ -38,7 +38,7 @@ To set up Git on a Mac computer follow this guide (for other operating systems, 
     Enter file in which to save the key (/Users/masonlab/.ssh/id_ed25519) <br><br>
 
 2. Add your SSH key to the SSH agent, with the following command: <br><br>
-    ```eval "$(ssh-agent -s)"``` <br>
+    ```eval "$(ssh-agent -s)"``` <br><br>
     (leave the next two questions empty, just press enter)
 
 3. If want to visualize your private and public SSH keys, they are in the following files: <br><br>
