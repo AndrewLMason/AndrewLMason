@@ -1,6 +1,6 @@
 # Andrew L Mason laboratory github repositories #
 
-This is a repository for the Mason laboratory where different projects are documented and associated computer scripts are stored.
+This is a repository for the Mason laboratory where different projects are documented and associated computer scripts are stored.<\br>
 
 To set up Git on a Mac computer follow this guide (for other operating systems, please contact Juan Jovel <jovel@ualberta.ca>)
 
