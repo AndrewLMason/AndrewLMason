@@ -4,18 +4,17 @@ This is a repository for the Mason laboratory where different projects are docum
 
 To set up Git on a Mac computer follow this guide (for other operating systems, please contact Juan Jovel <jovel@ualberta.ca>)
 
-1. Check whether GIT is already installed in your computer. <br>
+1. Check whether 'git' is already installed in your computer. <br>
   2.1. Open the Mac terminal (it is in the folder Applications) and type: <br><br> 
-  ``` which git``` <br> <br>
+  ```which git``` <br> <br>
       
     if git is installed, you should see a path deployed, e.g. /usr/bin/git. If not, you have to install it:
 
 2. Install brew. <br>
-  
   2.2 Check if you have the program 'brew' installed typing: <br><br>
-    ``` which brew``` <br><br> 
+    ```which brew``` <br><br> 
       
-    if brew is installed, you should see a path deployed, e.g. /usr/bin/brew. If not, you have to install it:
+    if brew is installed, you should see a path deployed, e.g. /usr/bin/brew. If not, you have to install it: <br>
     
     ```curl -fsSL -o install.sh https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh``` <br>
     ```bash install.sh```
