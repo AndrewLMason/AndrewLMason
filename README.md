@@ -29,6 +29,11 @@ To set up Git on a Mac computer follow this guide (for other operating systems, 
     ```brew install git``` <br>    
     (check again if git is finally installed)<br>
 
+## Generate and set your SSH key pair ##
+
+1. Generate SSH key, which will have the github-associated e-mail as label, type following command:
+    ```ssh-keygen -t ed25519 -C "andymasonLab@gmail.com"```
+
 
     
 
