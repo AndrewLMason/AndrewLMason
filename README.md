@@ -56,8 +56,10 @@ To set up Git on a Mac computer follow this guide (for other operating systems, 
   IdentityFile ~/.ssh/id_ed25519<br><br>
   4.4 Save and close pop-up window<br>
   
-5. Add your SSH key to the agent:<br><br>
-    ```ssh-add -K ~/.ssh/id_ed25519```
+5. Add your SSH key to Github:<br><br>
+  5.1 Go to: https://github.com/AndrewLMason/AndrewLMason
+  5.2 Follow instructions at: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+  
 
 
 
