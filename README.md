@@ -5,8 +5,8 @@ This is a repository for the Mason laboratory where different projects are docum
 To set up Git on a Mac computer follow this guide (for other operating systems, please contact Juan Jovel <jovel@ualberta.ca>)
 
 1. Check whether GIT is already installed in your computer. <br>
-  2.1. Open the Mac terminal (it is in the folder Applications) and type: <br> 
-  ```sh which git ``` <br> 
+  2.1. Open the Mac terminal (it is in the folder Applications) and type: <br><br> 
+  ``` which git ``` <br> <br>
       (don't type the dollar sign, that's your prompt) <br><br>
     if git is installed, you should see a path deployed, e.g. /usr/bin/git. If not, you have to install it:
   
