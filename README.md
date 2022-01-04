@@ -55,6 +55,9 @@ To set up Git on a Mac computer follow this guide (for other operating systems, 
   UseKeychain yes<br>
   IdentityFile ~/.ssh/id_ed25519<br><br>
   4.4 Save and close pop-up window<br>
+  
+5. Add your SSH key to the agent:<br><br>
+    ```ssh-add -K ~/.ssh/id_ed25519```
 
 
 
