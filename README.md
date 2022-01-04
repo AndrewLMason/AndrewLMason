@@ -5,9 +5,9 @@ This is a repository for the Mason laboratory where different projects are docum
 To set up Git on a Mac computer follow this guide (for other operating systems, please contact Juan Jovel <jovel@ualberta.ca>)
 
 1. Install GIT on your terminal. <br>
-  1.1. Open the Mac terminal (it is in the folder Applications)
-  1.2 Check if you have the program 'brew' installed typing:
-    *which brew*
+  1.1. Open the Mac terminal (it is in the folder Applications) <br>
+  1.2 Check if you have the program 'brew' installed typing: <br>
+    *which brew* <br>
     if brew is installed, you should see a path deployed, e.g. /usr/bin/curl. If not, you have to install it:
     
 
