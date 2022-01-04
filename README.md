@@ -11,6 +11,8 @@ To set up Git on a Mac computer follow this guide (for other operating systems, 
       (don't type the dollar sign, that's your prompt) <br><br>
     if brew is installed, you should see a path deployed, e.g. /usr/bin/curl. If not, you have to install it:
     
+    $*curl -fsSL -o install.sh https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh* <br><br>
+    
 
 ## List of available repositories ##
 
