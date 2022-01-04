@@ -50,10 +50,10 @@ To set up Git on a Mac computer follow this guide (for other operating systems, 
   4.2 Open config file in Mac text editor:
     ```open ~/.ssh/config``` <br><br>
   4.3 Copy and paste the following:<br><br>
-  Host *
-  AddKeysToAgent yes
-  UseKeychain yes
-  IdentityFile ~/.ssh/id_ed25519
+  Host *<br>
+  AddKeysToAgent yes<br>
+  UseKeychain yes<br>
+  IdentityFile ~/.ssh/id_ed25519<br>
   4.4 Save and close pop-up window<br><br>
 
 
