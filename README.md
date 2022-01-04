@@ -19,12 +19,12 @@ To set up Git on a Mac computer follow this guide (for other operating systems, 
     ```curl -fsSL -o install.sh https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh``` <br>
     ```bash install.sh```<br>
     
- 3. Check again whether you have git installed. It is possible that during the brew installation, git would be installed:<br>
+ 3. Check again whether you have git installed. It is possible that during the brew installation, git would be installed:<br><br>
     ```which git``` <br>
     
     if installed: /usr/bin/git (otherwise is not yet installed, and you have to installed as follows:<br>
  
- 4. Install git (if necessary):<br>
+ 4. Install git (if necessary):<br><br>
     ```brew install git``` <br>    
     (check again if git is finally installed)<br>
 
