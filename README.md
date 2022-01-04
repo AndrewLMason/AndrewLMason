@@ -13,7 +13,7 @@ To set up Git on a Mac computer follow this guide (for other operating systems, 
 2. Install brew. <br>
   
   2.2 Check if you have the program 'brew' installed typing: <br><br>
-    ``` which brew ``` <br> 
+    ``` which brew ``` <br><br> 
       (don't type the dollar sign, that's your prompt) <br><br>
     if brew is installed, you should see a path deployed, e.g. /usr/bin/brew. If not, you have to install it:
     
