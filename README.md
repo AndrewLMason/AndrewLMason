@@ -62,7 +62,9 @@ To set up Git on a Mac computer follow this guide (for other operating systems, 
   5.3 When you are promted to enter your public key, visualize it (and copy it with COMMAND + C): <br><br>
     ```cat ~/.ssh/id_ed25519.pub```
   
+## Clone your repository into your local computer ##
 
+```git clone git clone https://github.com/AndrewLMason/AndrewLMason.git```
 
 
 
