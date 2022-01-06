@@ -60,7 +60,7 @@ To set up Git on a Mac computer follow this guide (for other operating systems, 
   5.1 Go to: https://github.com/AndrewLMason/AndrewLMason
   5.2 Follow instructions at: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
   5.3 When you are promted to enter your public key, visualize it (and copy it with COMMAND + C): <br><br>
-    ```cat ~/.ssh/id_ed25519.pub```<br>
+    ```cat ~/.ssh/id_ed25519.pub```<br><br>
     You may be prompted to provide the github password. Ask Andy or Juan for such a password.
   
 ## Clone your repository into your local computer ##
