@@ -67,6 +67,8 @@ To set up Git on a Mac computer follow this guide (for other operating systems, 
 
 ```git clone git clone https://github.com/AndrewLMason/AndrewLMason.git```
 
+## Pushing new or modified files into the repo ## <br>
+A pesonal token should be obtained to access the repo remotely. Ask Juan for now.
 
 
 
