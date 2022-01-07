@@ -74,9 +74,7 @@ A pesonal token should be obtained to access the repo remotely. Ask Juan for now
 
     
 
-## List of available repositories ##
 
-* MappingIntHBRV
 
 
 <!---
