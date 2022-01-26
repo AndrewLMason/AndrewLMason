@@ -44,6 +44,7 @@ To set up Git on a Mac computer follow this guide (for other operating systems, 
 3. If want to visualize your private and public SSH keys, they are in the following files: <br><br>
     ```cat ~/.ssh/*``` 
 
+( Note: is some operating systems, if may not be necessary to create a config file) <br>
 4. Create config file: <br><br>
   4.1 Create file with touch: <br><br>
     ```touch ~/.ssh/config``` <br><br>
@@ -57,15 +58,15 @@ To set up Git on a Mac computer follow this guide (for other operating systems, 
   4.4 Save and close pop-up window<br>
   
 5. Add your SSH key to Github:<br><br>
-  5.1 Go to: https://github.com/AndrewLMason/AndrewLMason
-  5.2 Follow instructions at: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+  5.1 Go to: https://github.com/AndrewLMason/AndrewLMason <br>
+  5.2 Follow instructions at: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account <br>
   5.3 When you are promted to enter your public key, visualize it (and copy it with COMMAND + C): <br><br>
     ```cat ~/.ssh/id_ed25519.pub```<br><br>
     You may be prompted to provide the github password. Ask Andy or Juan for such a password.
   
 ## Clone your repository into your local computer ##
 
-```git clone git clone https://github.com/AndrewLMason/AndrewLMason.git```
+```git clone https://github.com/AndrewLMason/AndrewLMason.git```
 
 ## Pushing new or modified files into the repo ## 
 A pesonal token should be obtained to access the repo remotely. Ask Juan for now.
