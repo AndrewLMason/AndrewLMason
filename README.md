@@ -1,8 +1,9 @@
-# Andrew L Mason laboratory github repositories #
+# Andrggew L Mason laboratory github repositories #
 
 This is a repository for the Mason laboratory where different projects are documented and associated computer scripts are stored.
 
 ## Set up git on your computer ##
+
 To set up Git on a Mac computer follow this guide (for other operating systems, please contact Juan Jovel: <jovel@ualberta.ca>)
 
 1. Check whether 'git' is already installed in your computer. <br>
